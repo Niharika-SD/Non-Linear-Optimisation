@@ -1,0 +1,13 @@
+
+Iteration 1 || Function Value : 1.057544
+Iteration 2 || Function Value : 3789.240280
+Iteration 3 || Function Value : 947.170821
+Iteration 4 || Function Value : 236.660090
+Iteration 5 || Function Value : 59.062093
+Iteration 6 || Function Value : 16.914112
+Iteration 7 || Function Value : 22.397877
+Iteration 8 || Function Value : 11.713604
+Iteration 9 || Function Value : 3.012441
+Iteration 10 || Function Value : 0.565416
+Iteration 11 || Function Value : 0.051056
+Iteration 12 || Function Value : 0.000620
